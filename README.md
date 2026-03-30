@@ -1,6 +1,6 @@
-# Digital-Alchemy
+This repository contains Digital-Alchemy Project(WiSe25/26) using WS22 Dataset
 
-# Molecular Energy and Force Prediction using Message Passing Neural Networks
+# Project Title: "Molecular Energy and Force Prediction using Message Passing Neural Networks"
 ## Overview
 This project focuses on predicting **molecular energy** and **atomic force fields** using a deep
 learning approach based on a **message passing neural network inspired by PaiNN**.
